@@ -1,0 +1,33 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Analyse des donn\351es}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Pr\351sentation des donn\351es}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Analyse exploratoire des donn\351es}{section.2}% 4
+\BOOKMARK [3][-]{subsubsection.2.2.1}{R\351partition des individus}{subsection.2.2}% 5
+\BOOKMARK [3][-]{subsubsection.2.2.2}{R\351partition des variables}{subsection.2.2}% 6
+\BOOKMARK [3][-]{subsubsection.2.2.3}{Correction des valeurs aberrantes}{subsection.2.2}% 7
+\BOOKMARK [3][-]{subsubsection.2.2.4}{R\351partition des variables 2 par 2}{subsection.2.2}% 8
+\BOOKMARK [3][-]{subsubsection.2.2.5}{Corr\351lation des variables}{subsection.2.2}% 9
+\BOOKMARK [1][-]{section.3}{Pr\351traitements par ACP}{}% 10
+\BOOKMARK [1][-]{section.4}{M\351thodes non-supervis\351es}{}% 11
+\BOOKMARK [2][-]{subsection.4.1}{Formalisation du probl\350me}{section.4}% 12
+\BOOKMARK [2][-]{subsection.4.2}{KMeans}{section.4}% 13
+\BOOKMARK [1][-]{section.5}{M\351thodes supervis\351es}{}% 14
+\BOOKMARK [2][-]{subsection.5.1}{M\351thodologie g\351n\351rale}{section.5}% 15
+\BOOKMARK [2][-]{subsection.5.2}{Analyse discriminante}{section.5}% 16
+\BOOKMARK [3][-]{subsubsection.5.2.1}{Hypoth\350se de normalit\351}{subsection.5.2}% 17
+\BOOKMARK [3][-]{subsubsection.5.2.2}{Pr\351traitements}{subsection.5.2}% 18
+\BOOKMARK [3][-]{subsubsection.5.2.3}{R\351sultats}{subsection.5.2}% 19
+\BOOKMARK [2][-]{subsection.5.3}{KNN}{section.5}% 20
+\BOOKMARK [3][-]{subsubsection.5.3.1}{D\351termination des meilleurs param\350tres}{subsection.5.3}% 21
+\BOOKMARK [3][-]{subsubsection.5.3.2}{Analyse des r\351sultats}{subsection.5.3}% 22
+\BOOKMARK [3][-]{subsubsection.5.3.3}{Analyse du meilleur KNN}{subsection.5.3}% 23
+\BOOKMARK [1][-]{section.6}{Regression logistique}{}% 24
+\BOOKMARK [2][-]{subsection.6.1}{Selection des pr\351traitements}{section.6}% 25
+\BOOKMARK [2][-]{subsection.6.2}{Choix des param\350tres de r\351gression et des ensembles d'apprentissage}{section.6}% 26
+\BOOKMARK [2][-]{subsection.6.3}{Analyse des r\351sultats}{section.6}% 27
+\BOOKMARK [2][-]{subsection.6.4}{Interpr\351tation des coefficients}{section.6}% 28
+\BOOKMARK [1][-]{section.7}{For\352t al\351atoire}{}% 29
+\BOOKMARK [2][-]{subsection.7.1}{Choix des pr\351traitements et des param\350tres }{section.7}% 30
+\BOOKMARK [2][-]{subsection.7.2}{R\351sultats}{section.7}% 31
+\BOOKMARK [2][-]{subsection.7.3}{Extra Tree}{section.7}% 32
+\BOOKMARK [1][-]{section.8}{Conclusion}{}% 33
